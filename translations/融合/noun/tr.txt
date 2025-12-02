@@ -1,0 +1,4 @@
+bütünleşme
+kaynaşma
+entegrasyon
+birleşme

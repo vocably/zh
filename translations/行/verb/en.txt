@@ -1,0 +1,6 @@
+go
+walk
+travel
+do
+conduct
+perform

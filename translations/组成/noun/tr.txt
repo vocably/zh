@@ -1,0 +1,3 @@
+bileşen
+kompozisyon
+oluşum

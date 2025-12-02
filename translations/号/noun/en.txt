@@ -1,0 +1,6 @@
+number
+day
+size
+mark
+sign
+signal

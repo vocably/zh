@@ -1,0 +1,4 @@
+kind
+type
+species
+seed

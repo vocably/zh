@@ -1,0 +1,4 @@
+przyczyna
+powód
+zdarzenie
+wypadek

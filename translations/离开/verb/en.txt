@@ -1,0 +1,4 @@
+leave
+depart
+go away
+exit

@@ -1,0 +1,3 @@
+familie
+geslacht
+clan

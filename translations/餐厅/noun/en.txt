@@ -1,0 +1,4 @@
+restaurant
+dining hall
+canteen
+cafeteria

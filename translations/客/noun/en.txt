@@ -1,0 +1,4 @@
+guest
+visitor
+customer
+client

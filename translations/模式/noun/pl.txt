@@ -1,0 +1,3 @@
+tryb
+model
+wzór

@@ -1,0 +1,4 @@
+talep
+istek
+gereklilik
+şart

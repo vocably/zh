@@ -1,0 +1,4 @@
+brzeg
+krawędź
+bok
+strona

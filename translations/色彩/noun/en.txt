@@ -1,0 +1,4 @@
+color
+hue
+tint
+shade

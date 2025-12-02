@@ -1,0 +1,5 @@
+minute
+point
+mark
+fraction
+division

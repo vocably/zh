@@ -1,0 +1,4 @@
+bölge
+alan
+ilçe
+saha

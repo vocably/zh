@@ -1,0 +1,7 @@
+boek
+geschrift
+document
+brief
+handschrift
+schrift
+verslag

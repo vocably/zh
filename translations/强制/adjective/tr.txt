@@ -1,0 +1,5 @@
+zorunlu
+mecburi
+bağlayıcı
+zorlayıcı
+icra edilebilir

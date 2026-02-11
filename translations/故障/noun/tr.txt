@@ -1,0 +1,5 @@
+arıza
+hata
+bozukluk
+aksaklık
+kusur

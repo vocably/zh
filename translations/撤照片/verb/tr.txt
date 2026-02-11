@@ -1,0 +1,4 @@
+Fotoğrafı kaldırmak
+Fotoğrafı silmek
+Fotoğrafı yayından kaldırmak
+Fotoğrafı geri çekmek

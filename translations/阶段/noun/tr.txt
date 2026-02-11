@@ -1,0 +1,7 @@
+aşama
+evre
+faz
+dönem
+merhale
+periyot
+süreç

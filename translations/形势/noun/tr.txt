@@ -1,0 +1,6 @@
+durum
+vaziyet
+konum
+şartlar
+arazi
+jeolojik yapı

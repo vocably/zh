@@ -1,0 +1,5 @@
+geld
+valuta
+betaalmiddel
+vermogen
+kapitaal

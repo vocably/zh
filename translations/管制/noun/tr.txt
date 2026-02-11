@@ -1,0 +1,5 @@
+kontrol
+denetim
+düzenleme
+kısıtlama
+gözetim

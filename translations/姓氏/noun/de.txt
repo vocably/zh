@@ -1,0 +1,3 @@
+der Familienname
+der Nachname
+das Geschlecht

@@ -1,0 +1,5 @@
+ekipman
+cihaz
+tesisat
+donanım
+tertibat

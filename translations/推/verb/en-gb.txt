@@ -1,0 +1,5 @@
+push
+decline
+postpone
+elect
+infer

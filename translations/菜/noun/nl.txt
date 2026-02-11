@@ -1,0 +1,5 @@
+groente
+gerecht
+voedsel
+maaltijd
+kost

@@ -1,0 +1,9 @@
+para
+miktar
+madde
+fıkra
+tarz
+biçim
+stil
+tür
+çeşit

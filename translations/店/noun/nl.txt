@@ -1,0 +1,6 @@
+winkel
+zaak
+shop
+hotel
+restaurant
+herberg

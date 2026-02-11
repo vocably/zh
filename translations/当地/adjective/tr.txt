@@ -1,0 +1,5 @@
+yerel
+mahalli
+bölgesel
+yöre
+yerli

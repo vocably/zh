@@ -1,0 +1,7 @@
+bord
+schaal
+schijf
+dienblad
+spoel
+ring
+bakje

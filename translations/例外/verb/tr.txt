@@ -1,0 +1,4 @@
+istisna
+ayrıcalık
+istisnai durum
+olağan dışı durum

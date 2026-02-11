@@ -1,0 +1,5 @@
+plate
+block
+sector
+segment
+section

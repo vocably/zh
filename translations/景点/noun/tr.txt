@@ -1,0 +1,6 @@
+turistik yer
+gezilecek yer
+görülecek yer
+özel yer
+manzara
+mekan

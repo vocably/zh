@@ -1,0 +1,5 @@
+sıralama
+düzenleme
+diziliş
+tertibat
+permütasyon

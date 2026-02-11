@@ -1,0 +1,5 @@
+merkezi
+orta
+ulusal
+başat
+yönetim

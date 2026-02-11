@@ -1,0 +1,8 @@
+Familie
+Geschäft
+Restaurant
+Krankenhaus
+Fabrik
+Unternehmen
+Museum
+Verlag

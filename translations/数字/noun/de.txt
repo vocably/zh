@@ -1,0 +1,4 @@
+die Ziffer
+die Zahl
+die Nummer
+digital

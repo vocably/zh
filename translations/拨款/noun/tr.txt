@@ -1,0 +1,4 @@
+ödenek
+tahsisat
+fon tahsisi
+kaynak tahsisi

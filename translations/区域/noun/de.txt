@@ -1,0 +1,5 @@
+Gebiet
+Region
+Zone
+Bezirk
+Bereich

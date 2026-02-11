@@ -1,0 +1,8 @@
+aula
+balai
+gedung
+ruangan
+bangsal
+kantor
+unit
+satuan

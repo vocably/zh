@@ -1,0 +1,5 @@
+die Nummer
+die Ziffer
+die Kennziffer
+die Seriennummer
+die Codenummer

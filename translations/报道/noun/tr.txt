@@ -1,0 +1,5 @@
+haber
+rapor
+bildiri
+duyuru
+tebliğ

@@ -1,0 +1,4 @@
+fiyatlar
+mal ve hizmet fiyatları
+emtia fiyatları
+fiyat seviyesi

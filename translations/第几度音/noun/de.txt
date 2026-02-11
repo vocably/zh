@@ -1,0 +1,3 @@
+die Tonstufe
+der Skalenabschnitt
+der Grad der Tonleiter

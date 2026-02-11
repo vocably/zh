@@ -1,0 +1,4 @@
+kişi sayısı
+insan sayısı
+katılımcı sayısı
+üye sayısı

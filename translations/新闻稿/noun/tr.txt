@@ -1,0 +1,4 @@
+basın bülteni
+haber bülteni
+basın açıklaması
+bildiri

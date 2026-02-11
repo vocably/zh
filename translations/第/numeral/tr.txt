@@ -1,0 +1,5 @@
+derece
+sıra
+aşaması
+seviye
+kademe

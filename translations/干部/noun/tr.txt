@@ -1,0 +1,5 @@
+kadro
+memur
+yetkili
+idareci
+yönetici

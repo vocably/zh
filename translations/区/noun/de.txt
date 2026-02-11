@@ -1,0 +1,5 @@
+Gebiet
+Bezirk
+Region
+Viertel
+Verwaltungsgebiet

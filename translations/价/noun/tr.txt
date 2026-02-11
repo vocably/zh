@@ -1,0 +1,4 @@
+fiyat
+değer
+valans
+değişken

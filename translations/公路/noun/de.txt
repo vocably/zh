@@ -1,0 +1,4 @@
+die Autobahn
+die Landstraße
+die Fernstraße
+die Bundesstraße

@@ -1,0 +1,5 @@
+right
+correct
+true
+proper
+appropriate

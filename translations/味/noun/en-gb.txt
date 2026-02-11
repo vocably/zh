@@ -1,0 +1,4 @@
+taste
+flavour
+smell
+pinch

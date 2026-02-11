@@ -1,0 +1,5 @@
+sıralamak
+düzenlemek
+tertiplemek
+dizmek
+permütasyon

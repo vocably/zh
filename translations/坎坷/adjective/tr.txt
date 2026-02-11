@@ -1,0 +1,5 @@
+engebeli yol
+çetin yol
+zorlu yol
+düz olmayan yol
+taşlı yol

@@ -1,0 +1,5 @@
+ayarlama
+düzenleme
+uyarlama
+tashih
+optimizasyon

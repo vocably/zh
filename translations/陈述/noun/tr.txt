@@ -1,0 +1,4 @@
+beyan
+ifade
+açıklama
+bildiri

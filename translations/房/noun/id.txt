@@ -1,0 +1,6 @@
+rumah
+kamar
+bangunan
+gedung
+ruangan
+marga

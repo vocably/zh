@@ -1,0 +1,4 @@
+to withdraw
+to quit
+to exit
+to secede

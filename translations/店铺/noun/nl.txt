@@ -1,0 +1,5 @@
+winkel
+zaak
+shop
+magazijn
+handel

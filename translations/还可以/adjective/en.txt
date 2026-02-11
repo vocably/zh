@@ -1,0 +1,10 @@
+acceptable
+passable
+tolerable
+not bad
+so-so
+mediocre
+average
+fair
+pretty good
+all right

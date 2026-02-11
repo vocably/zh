@@ -1,0 +1,4 @@
+rapor
+bildiri
+sunum
+beyanat

@@ -1,0 +1,7 @@
+plate
+dish
+tray
+board
+disk
+coil
+loop

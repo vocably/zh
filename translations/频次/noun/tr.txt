@@ -1,0 +1,4 @@
+sıklık
+frekans
+tekrar sayısı
+vuku bulma sıklığı

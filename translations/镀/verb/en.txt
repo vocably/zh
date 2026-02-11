@@ -1,0 +1,5 @@
+plate
+coat
+electroplate
+gild
+veneer

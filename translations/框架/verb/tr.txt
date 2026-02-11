@@ -1,0 +1,4 @@
+iskeletini oluşturmak
+temel yapısını kurmak
+çerçeve sağlamak
+iskeletini kurmak

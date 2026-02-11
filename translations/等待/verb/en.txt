@@ -1,0 +1,5 @@
+wait
+await
+expect
+stay
+bide one's time

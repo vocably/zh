@@ -1,0 +1,5 @@
+step
+pace
+gait
+march
+stride

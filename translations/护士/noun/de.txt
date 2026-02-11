@@ -1,0 +1,4 @@
+die Krankenschwester
+der Krankenpfleger
+die Pflegefachkraft
+die Pflegekraft

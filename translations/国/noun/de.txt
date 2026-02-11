@@ -1,0 +1,10 @@
+Land
+Staat
+Nation
+Heimat
+Reich
+Gebiet
+Territorium
+Boden
+Staatsbürger
+Landsmann

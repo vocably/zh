@@ -1,0 +1,4 @@
+geld
+valuta
+munt
+betaalmiddel

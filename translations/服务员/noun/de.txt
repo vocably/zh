@@ -1,0 +1,6 @@
+der Kellner
+die Kellnerin
+der Ober
+die Bedienung
+der Servicemitarbeiter
+die Servicemitarbeiterin

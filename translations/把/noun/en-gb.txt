@@ -1,0 +1,4 @@
+handle
+grip
+for things with handles
+for abstract matters

@@ -1,0 +1,9 @@
+Kerl
+Typ
+Kamerad
+Geselle
+Werkzeug
+Gerät
+Waffe
+Kreatur
+Dingsda

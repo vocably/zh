@@ -1,0 +1,4 @@
+truck
+lorry
+cart
+wagon

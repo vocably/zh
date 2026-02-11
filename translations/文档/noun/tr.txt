@@ -1,0 +1,3 @@
+belge
+doküman
+dosya

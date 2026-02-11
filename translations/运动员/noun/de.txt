@@ -1,0 +1,4 @@
+der Athlet
+die Athletin
+der Sportler
+die Sportlerin

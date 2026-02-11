@@ -1,0 +1,3 @@
+die SMS
+die Textnachricht
+die Kurznachricht

@@ -1,0 +1,5 @@
+konut
+ev
+mesken
+özel konut
+sivil konut

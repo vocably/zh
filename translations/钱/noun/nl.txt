@@ -1,0 +1,5 @@
+geld
+valuta
+munt
+rijkdom
+vermogen

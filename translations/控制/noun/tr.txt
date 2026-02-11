@@ -1,0 +1,5 @@
+kontrol
+denetim
+kumanda
+idare
+yönetim

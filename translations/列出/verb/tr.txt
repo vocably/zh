@@ -1,0 +1,3 @@
+listelemek
+sıralamak
+kaydetmek

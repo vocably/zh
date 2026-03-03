@@ -1,0 +1,4 @@
+mektup
+haber
+bilgi
+güven

@@ -1,0 +1,2 @@
+yükseliş ve düşüş
+inişler ve çıkışlar

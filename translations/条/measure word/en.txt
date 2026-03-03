@@ -1,0 +1,5 @@
+strip
+item
+piece
+bar
+line

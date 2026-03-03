@@ -1,0 +1,6 @@
+earth
+land
+ground
+place
+area
+situation

@@ -1,0 +1,4 @@
+kutu
+boşluk
+standart
+durum

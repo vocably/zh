@@ -1,0 +1,1 @@
+["stairs","door frame","threshold"]

@@ -1,0 +1,1 @@
+["indirektno","implicitno"]

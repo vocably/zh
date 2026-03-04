@@ -1,6 +1,1 @@
-considerar
-pensar
-reflexionar
-tener en cuenta
-cuidar
-preocuparse por
+["considerar","tener en cuenta"]

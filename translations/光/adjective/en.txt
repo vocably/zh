@@ -1,0 +1,4 @@
+bright
+shiny
+smooth
+bare

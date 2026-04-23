@@ -1,0 +1,5 @@
+ticket
+ballot
+banknote
+note
+bill

@@ -1,0 +1,6 @@
+thin
+light
+slight
+weak
+barren
+small

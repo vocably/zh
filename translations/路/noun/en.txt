@@ -1,0 +1,9 @@
+road
+path
+way
+route
+journey
+line
+class
+grade
+type

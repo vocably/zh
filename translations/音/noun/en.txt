@@ -1,0 +1,4 @@
+sound
+voice
+pronunciation
+news

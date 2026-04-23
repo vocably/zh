@@ -1,0 +1,4 @@
+light
+ray
+scenery
+glory

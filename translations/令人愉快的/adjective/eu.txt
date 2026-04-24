@@ -1,1 +1,2 @@
-["atsegin","zoriontsu"]
+atsegin
+zoriontsu

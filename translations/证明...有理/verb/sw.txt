@@ -1,1 +1,2 @@
-["halalisha","tetea"]
+halalisha
+tetea

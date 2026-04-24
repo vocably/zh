@@ -1,1 +1,2 @@
-["vuba","bwangu"]
+vuba
+bwangu

@@ -1,1 +1,2 @@
-["remakab","notableman"]
+remakab
+notableman

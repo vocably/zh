@@ -1,1 +1,2 @@
-["à l'ingrossu","grossu modu"]
+à l'ingrossu
+grossu modu

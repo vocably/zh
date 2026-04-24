@@ -1,1 +1,2 @@
-["konplè","entegral"]
+konplè
+entegral

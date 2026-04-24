@@ -1,1 +1,2 @@
-["digonol","llawn"]
+digonol
+llawn

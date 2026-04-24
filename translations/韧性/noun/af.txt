@@ -1,1 +1,2 @@
-["veerkragtigheid","buigsaamheid"]
+veerkragtigheid
+buigsaamheid

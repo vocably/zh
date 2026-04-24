@@ -1,1 +1,2 @@
-["áitíonn","cuireann ina luí"]
+áitíonn
+cuireann ina luí

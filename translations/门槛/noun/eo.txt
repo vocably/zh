@@ -1,1 +1,3 @@
-["sojlo","limo","truko"]
+sojlo
+limo
+truko

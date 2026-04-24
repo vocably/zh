@@ -1,1 +1,2 @@
-["juriya","tankade"]
+juriya
+tankade

@@ -1,1 +1,2 @@
-["txaus","kom txaus"]
+txaus
+kom txaus

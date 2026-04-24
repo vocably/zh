@@ -1,1 +1,2 @@
-["výrazne","značne"]
+výrazne
+značne

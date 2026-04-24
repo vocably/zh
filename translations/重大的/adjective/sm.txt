@@ -1,1 +1,2 @@
-["taua","tele"]
+taua
+tele

@@ -1,1 +1,2 @@
-["justifikoj","ar syetoj"]
+justifikoj
+ar syetoj

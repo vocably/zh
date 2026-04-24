@@ -1,1 +1,2 @@
-["egiluvchanlik","matonat"]
+egiluvchanlik
+matonat

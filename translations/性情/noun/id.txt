@@ -1,1 +1,2 @@
-["watak","sifat"]
+watak
+sifat

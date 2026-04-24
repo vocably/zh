@@ -1,1 +1,2 @@
-["paakiki","hoomanawanui"]
+paakiki
+hoomanawanui

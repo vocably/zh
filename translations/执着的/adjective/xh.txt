@@ -1,1 +1,2 @@
-["ukuzingisa","ukungayeki"]
+ukuzingisa
+ukungayeki

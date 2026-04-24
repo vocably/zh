@@ -1,1 +1,2 @@
-["foai","tuuina atu"]
+foai
+tuuina atu

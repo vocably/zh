@@ -1,1 +1,2 @@
-["ruw","globaal"]
+ruw
+globaal

@@ -1,1 +1,2 @@
-["neglijo","harroj"]
+neglijo
+harroj

@@ -1,1 +1,2 @@
-["indirekte","antyde"]
+indirekte
+antyde

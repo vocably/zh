@@ -1,1 +1,2 @@
-["yn nodedig","yn amlwg"]
+yn nodedig
+yn amlwg

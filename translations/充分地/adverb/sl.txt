@@ -1,1 +1,2 @@
-["popolnoma","v celoti"]
+popolnoma
+v celoti

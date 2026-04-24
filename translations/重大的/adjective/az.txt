@@ -1,1 +1,2 @@
-["əhəmiyyətli","mühüm"]
+əhəmiyyətli
+mühüm

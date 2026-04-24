@@ -1,1 +1,2 @@
-["kanthi cetha","kanthi nyata"]
+kanthi cetha
+kanthi nyata

@@ -1,1 +1,3 @@
-["neplăcut","împotriva voinței","forțat"]
+neplăcut
+împotriva voinței
+forțat

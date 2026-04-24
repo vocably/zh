@@ -1,1 +1,2 @@
-["kuregeredza","kukanganwa"]
+kuregeredza
+kukanganwa

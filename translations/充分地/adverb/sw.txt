@@ -1,1 +1,2 @@
-["kikamilifu","kabisa"]
+kikamilifu
+kabisa

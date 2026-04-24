@@ -1,1 +1,2 @@
-["kobud","təxminən"]
+kobud
+təxminən

@@ -1,1 +1,2 @@
-["elastingumas","atsparumas"]
+elastingumas
+atsparumas

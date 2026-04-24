@@ -1,1 +1,3 @@
-["tærskel","begrænsning","fidus"]
+tærskel
+begrænsning
+fidus

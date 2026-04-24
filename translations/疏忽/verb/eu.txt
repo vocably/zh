@@ -1,1 +1,2 @@
-["arduragabekeria","zabarkeria"]
+arduragabekeria
+zabarkeria

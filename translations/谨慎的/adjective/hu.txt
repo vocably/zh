@@ -1,1 +1,2 @@
-["óvatos","körültekintő"]
+óvatos
+körültekintő

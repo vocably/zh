@@ -1,1 +1,2 @@
-["manamarina","manaporofo"]
+manamarina
+manaporofo

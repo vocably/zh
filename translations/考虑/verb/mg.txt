@@ -1,1 +1,2 @@
-["mandinika","mieritreritra"]
+mandinika
+mieritreritra

@@ -1,1 +1,2 @@
-["trascurà","mancà"]
+trascurà
+mancà

@@ -1,1 +1,2 @@
-["þrautseigur","staðfastur"]
+þrautseigur
+staðfastur

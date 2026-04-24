@@ -1,1 +1,3 @@
-["mangere","ngakaukore","ohorere"]
+mangere
+ngakaukore
+ohorere

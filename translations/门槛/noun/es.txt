@@ -1,1 +1,3 @@
-["umbral","entrada","truco"]
+umbral
+entrada
+truco

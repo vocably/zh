@@ -1,1 +1,2 @@
-["əzmkarlıq","qətiyyət"]
+əzmkarlıq
+qətiyyət

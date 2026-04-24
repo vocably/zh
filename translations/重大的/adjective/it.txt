@@ -1,1 +1,2 @@
-["grave","importante"]
+grave
+importante

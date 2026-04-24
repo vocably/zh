@@ -1,1 +1,2 @@
-["manaia","fiafia"]
+manaia
+fiafia

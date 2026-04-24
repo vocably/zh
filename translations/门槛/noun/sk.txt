@@ -1,1 +1,3 @@
-["prah","limit","finta"]
+prah
+limit
+finta

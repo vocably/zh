@@ -1,1 +1,2 @@
-["suffisamment","pleinement"]
+suffisamment
+pleinement

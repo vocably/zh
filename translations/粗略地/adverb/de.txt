@@ -1,1 +1,2 @@
-["grob","ungefähr"]
+grob
+ungefähr

@@ -1,1 +1,2 @@
-["tabia","hulka"]
+tabia
+hulka

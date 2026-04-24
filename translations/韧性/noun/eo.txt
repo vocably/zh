@@ -1,1 +1,2 @@
-["elasteco","rezistemo"]
+elasteco
+rezistemo

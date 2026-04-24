@@ -1,1 +1,2 @@
-["kinoyali","yashirincha"]
+kinoyali
+yashirincha

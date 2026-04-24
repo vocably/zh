@@ -1,1 +1,2 @@
-["a convinge","a persuada"]
+a convinge
+a persuada

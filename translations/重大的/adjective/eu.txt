@@ -1,1 +1,2 @@
-["garrantzitsu","handi"]
+garrantzitsu
+handi

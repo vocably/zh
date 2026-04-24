@@ -1,1 +1,3 @@
-["nenoriai","priverstinai","nenoromis"]
+nenoriai
+priverstinai
+nenoromis

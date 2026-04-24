@@ -1,1 +1,2 @@
-["sacara signifikan","sacara nonjol"]
+sacara signifikan
+sacara nonjol

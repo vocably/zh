@@ -1,1 +1,2 @@
-["veliki","važan"]
+veliki
+važan

@@ -1,1 +1,2 @@
-["fungisisa","rangarira"]
+fungisisa
+rangarira

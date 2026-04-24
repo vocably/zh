@@ -1,1 +1,2 @@
-["gu luath","gu sgiobalta"]
+gu luath
+gu sgiobalta

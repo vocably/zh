@@ -1,1 +1,2 @@
-["go suntasach","go mór"]
+go suntasach
+go mór

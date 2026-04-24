@@ -1,1 +1,2 @@
-["indirektno","diskretno"]
+indirektno
+diskretno

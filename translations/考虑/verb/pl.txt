@@ -1,1 +1,2 @@
-["rozważać","brać pod uwagę"]
+rozważać
+brać pod uwagę

@@ -1,1 +1,2 @@
-["i këndshëm","i pëlqyeshëm"]
+i këndshëm
+i pëlqyeshëm

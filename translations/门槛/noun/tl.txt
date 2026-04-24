@@ -1,1 +1,3 @@
-["paso","limitasyon","paraan"]
+paso
+limitasyon
+paraan

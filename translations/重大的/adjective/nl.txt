@@ -1,1 +1,2 @@
-["belangrijk","ingrijpend"]
+belangrijk
+ingrijpend

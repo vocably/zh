@@ -1,1 +1,2 @@
-["izrazito","znatno"]
+izrazito
+znatno

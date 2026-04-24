@@ -1,1 +1,2 @@
-["nahikoa","bete-betean"]
+nahikoa
+bete-betean

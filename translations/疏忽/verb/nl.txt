@@ -1,1 +1,2 @@
-["verwaarlozen","nalaten"]
+verwaarlozen
+nalaten

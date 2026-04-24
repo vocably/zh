@@ -1,1 +1,2 @@
-["indirekt","andeutungsweise"]
+indirekt
+andeutungsweise

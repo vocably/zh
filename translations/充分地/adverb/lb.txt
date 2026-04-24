@@ -1,1 +1,2 @@
-["genuch","voll"]
+genuch
+voll

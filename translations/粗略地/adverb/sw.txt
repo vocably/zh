@@ -1,1 +1,2 @@
-["kwa takriban","kwa ujumla"]
+kwa takriban
+kwa ujumla

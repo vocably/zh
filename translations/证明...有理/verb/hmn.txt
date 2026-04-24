@@ -1,1 +1,2 @@
-["ua hais tias yog","ua pov thawj"]
+ua hais tias yog
+ua pov thawj

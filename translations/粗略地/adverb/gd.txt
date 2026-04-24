@@ -1,1 +1,2 @@
-["gu tuairmeasach","gu neo-chùramach"]
+gu tuairmeasach
+gu neo-chùramach

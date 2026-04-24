@@ -1,1 +1,2 @@
-["dayac","halmaansan"]
+dayac
+halmaansan

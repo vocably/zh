@@ -1,1 +1,2 @@
-["snel","vlug"]
+snel
+vlug

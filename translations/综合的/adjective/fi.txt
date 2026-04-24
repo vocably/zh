@@ -1,1 +1,2 @@
-["kattava","kokonaisvaltainen"]
+kattava
+kokonaisvaltainen

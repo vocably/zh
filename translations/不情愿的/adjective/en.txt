@@ -1,1 +1,3 @@
-["unwilling","reluctant","involuntary"]
+unwilling
+reluctant
+involuntary

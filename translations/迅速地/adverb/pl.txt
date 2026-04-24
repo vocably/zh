@@ -1,1 +1,2 @@
-["szybko","prędko"]
+szybko
+prędko

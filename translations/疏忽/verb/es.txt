@@ -1,1 +1,2 @@
-["descuidar","omitir"]
+descuidar
+omitir

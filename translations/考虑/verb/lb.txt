@@ -1,1 +1,2 @@
-["berécksiichtegen","denken"]
+berécksiichtegen
+denken

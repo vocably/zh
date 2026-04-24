@@ -1,1 +1,2 @@
-["ati-ati","ngati-ngati"]
+ati-ati
+ngati-ngati

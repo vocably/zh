@@ -1,1 +1,2 @@
-["toughness","resilience"]
+toughness
+resilience

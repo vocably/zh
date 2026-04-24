@@ -1,1 +1,2 @@
-["netiesiogiai","subtiliai"]
+netiesiogiai
+subtiliai

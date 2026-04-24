@@ -1,1 +1,2 @@
-["zeharka","ez zuzenean"]
+zeharka
+ez zuzenean

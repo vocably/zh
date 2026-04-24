@@ -1,1 +1,3 @@
-["negribīgs","nelabprātīgs","piespiests"]
+negribīgs
+nelabprātīgs
+piespiests

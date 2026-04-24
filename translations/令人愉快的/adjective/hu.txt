@@ -1,1 +1,2 @@
-["kellemes","élvezetes"]
+kellemes
+élvezetes

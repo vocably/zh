@@ -1,1 +1,2 @@
-["xasiyyət","təbiət"]
+xasiyyət
+təbiət

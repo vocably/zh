@@ -1,1 +1,2 @@
-["paaukoti","paskirti"]
+paaukoti
+paskirti

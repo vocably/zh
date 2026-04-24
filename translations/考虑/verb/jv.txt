@@ -1,1 +1,2 @@
-["nggatekake","ngelingake"]
+nggatekake
+ngelingake

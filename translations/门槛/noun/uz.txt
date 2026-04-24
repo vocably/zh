@@ -1,1 +1,3 @@
-["eshik osti","chegara","sir"]
+eshik osti
+chegara
+sir

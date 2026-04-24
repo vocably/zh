@@ -1,1 +1,2 @@
-["thoir a chreidsinn","dearbhaich"]
+thoir a chreidsinn
+dearbhaich

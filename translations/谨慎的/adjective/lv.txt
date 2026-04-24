@@ -1,1 +1,2 @@
-["piesardzīgs","apdomīgs"]
+piesardzīgs
+apdomīgs

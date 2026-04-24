@@ -1,1 +1,2 @@
-["sinifikanti","maġġuri"]
+sinifikanti
+maġġuri

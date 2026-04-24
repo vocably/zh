@@ -1,1 +1,2 @@
-["prudent","discret"]
+prudent
+discret

@@ -1,1 +1,2 @@
-["teljesen","eléggé"]
+teljesen
+eléggé

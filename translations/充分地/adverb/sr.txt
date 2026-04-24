@@ -1,1 +1,2 @@
-["dovoljno","potpuno"]
+dovoljno
+potpuno

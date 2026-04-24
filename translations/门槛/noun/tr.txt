@@ -1,1 +1,3 @@
-["eşik","giriş","püf noktası"]
+eşik
+giriş
+püf noktası

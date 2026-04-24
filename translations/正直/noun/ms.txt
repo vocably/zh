@@ -1,1 +1,2 @@
-["keadilan","integriti"]
+keadilan
+integriti

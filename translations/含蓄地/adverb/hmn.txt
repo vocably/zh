@@ -1,1 +1,2 @@
-["hais lus tsis ncaj","hais lus nkaum"]
+hais lus tsis ncaj
+hais lus nkaum

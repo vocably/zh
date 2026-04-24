@@ -1,1 +1,2 @@
-["gu neo-dhìreach","gu seòlta"]
+gu neo-dhìreach
+gu seòlta

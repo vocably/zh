@@ -1,1 +1,3 @@
-["prihvatiti","priznati","odobriti"]
+prihvatiti
+priznati
+odobriti

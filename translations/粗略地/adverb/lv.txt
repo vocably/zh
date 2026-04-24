@@ -1,1 +1,2 @@
-["aptuveni","rupji"]
+aptuveni
+rupji

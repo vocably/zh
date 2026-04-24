@@ -1,1 +1,2 @@
-["važan","bitan"]
+važan
+bitan

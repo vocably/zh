@@ -1,1 +1,2 @@
-["isku-dhafan","guud"]
+isku-dhafan
+guud

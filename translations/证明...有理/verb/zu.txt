@@ -1,1 +1,2 @@
-["ukufakazela","ukuqinisekisa"]
+ukufakazela
+ukuqinisekisa

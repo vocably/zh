@@ -1,1 +1,2 @@
-["mahatoky","mifikitra"]
+mahatoky
+mifikitra

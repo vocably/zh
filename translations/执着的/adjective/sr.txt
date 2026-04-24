@@ -1,1 +1,2 @@
-["uporan","istr ajan"]
+uporan
+istr ajan

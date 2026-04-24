@@ -1,1 +1,2 @@
-["versuim","nalatigheid"]
+versuim
+nalatigheid

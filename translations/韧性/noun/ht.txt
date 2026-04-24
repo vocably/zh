@@ -1,1 +1,2 @@
-["rezistans","detèminasyon"]
+rezistans
+detèminasyon

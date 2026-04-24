@@ -1,1 +1,2 @@
-["kiiresti","väledalt"]
+kiiresti
+väledalt

@@ -1,1 +1,2 @@
-["nekukurumidza","nokukasira"]
+nekukurumidza
+nokukasira

@@ -1,1 +1,2 @@
-["rechtfertigen","begründen"]
+rechtfertigen
+begründen

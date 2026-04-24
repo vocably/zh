@@ -1,1 +1,2 @@
-["överväga","beakta"]
+överväga
+beakta

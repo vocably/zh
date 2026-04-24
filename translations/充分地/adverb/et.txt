@@ -1,1 +1,2 @@
-["piisavalt","täielikult"]
+piisavalt
+täielikult

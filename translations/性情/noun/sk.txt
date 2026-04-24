@@ -1,1 +1,2 @@
-["charakter","povaha"]
+charakter
+povaha

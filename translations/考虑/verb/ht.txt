@@ -1,1 +1,2 @@
-["konsidere","pran an kont"]
+konsidere
+pran an kont

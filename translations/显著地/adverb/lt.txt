@@ -1,1 +1,2 @@
-["žymiai","ryškiai"]
+žymiai
+ryškiai

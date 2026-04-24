@@ -1,1 +1,2 @@
-["yn gyflym","yn sydyn"]
+yn gyflym
+yn sydyn

@@ -1,1 +1,2 @@
-["příjemný","potěšující"]
+příjemný
+potěšující

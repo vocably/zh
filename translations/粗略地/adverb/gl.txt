@@ -1,1 +1,2 @@
-["groseiramente","aproximadamente"]
+groseiramente
+aproximadamente

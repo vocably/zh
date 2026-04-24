@@ -1,1 +1,3 @@
-["istemesiz","mejbury","höwesiz"]
+istemesiz
+mejbury
+höwesiz

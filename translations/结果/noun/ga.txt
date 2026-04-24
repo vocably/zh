@@ -1,1 +1,2 @@
-["toradh","torthaí"]
+toradh
+torthaí

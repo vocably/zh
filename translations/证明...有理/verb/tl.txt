@@ -1,1 +1,2 @@
-["patunayan","ipaliwanag"]
+patunayan
+ipaliwanag

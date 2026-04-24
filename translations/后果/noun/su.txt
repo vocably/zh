@@ -1,1 +1,2 @@
-["balukarna","akibat"]
+balukarna
+akibat

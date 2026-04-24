@@ -1,1 +1,2 @@
-["synthétique","complet"]
+synthétique
+complet

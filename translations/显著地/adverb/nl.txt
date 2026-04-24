@@ -1,1 +1,2 @@
-["opvallend","aanzienlijk"]
+opvallend
+aanzienlijk

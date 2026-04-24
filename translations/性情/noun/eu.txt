@@ -1,1 +1,2 @@
-["izaera","humore"]
+izaera
+humore

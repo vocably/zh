@@ -1,1 +1,2 @@
-["ngokungqalileyo","ngokungangqalileyo"]
+ngokungqalileyo
+ngokungangqalileyo

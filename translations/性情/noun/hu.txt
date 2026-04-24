@@ -1,1 +1,2 @@
-["természet","vérmérséklet"]
+természet
+vérmérséklet

@@ -1,1 +1,3 @@
-["tröskel","begränsning","knep"]
+tröskel
+begränsning
+knep

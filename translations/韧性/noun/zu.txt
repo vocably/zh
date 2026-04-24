@@ -1,1 +1,2 @@
-["ukuqina","amandla"]
+ukuqina
+amandla

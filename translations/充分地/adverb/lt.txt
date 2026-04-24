@@ -1,1 +1,2 @@
-["visiškai","pilnai"]
+visiškai
+pilnai

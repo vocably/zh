@@ -1,1 +1,2 @@
-["önemli ölçüde","belirgin bir şekilde"]
+önemli ölçüde
+belirgin bir şekilde

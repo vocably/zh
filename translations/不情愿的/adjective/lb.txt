@@ -1,1 +1,3 @@
-["ongär","onfräiwëlleg","gezwongen"]
+ongär
+onfräiwëlleg
+gezwongen

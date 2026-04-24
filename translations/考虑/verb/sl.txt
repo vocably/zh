@@ -1,1 +1,2 @@
-["upoštevati","pomisliti"]
+upoštevati
+pomisliti

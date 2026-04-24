@@ -1,1 +1,2 @@
-["išsamus","visapusis"]
+išsamus
+visapusis

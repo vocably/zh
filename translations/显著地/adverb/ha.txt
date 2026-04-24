@@ -1,1 +1,2 @@
-["sosai","ainun"]
+sosai
+ainun

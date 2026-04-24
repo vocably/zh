@@ -1,1 +1,2 @@
-["mokwanira","kwathunthu"]
+mokwanira
+kwathunthu

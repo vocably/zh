@@ -1,1 +1,2 @@
-["göz öňünde tutmak","hasaba almak"]
+göz öňünde tutmak
+hasaba almak

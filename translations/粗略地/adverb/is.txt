@@ -1,1 +1,2 @@
-["gróflega","í stórum dráttum"]
+gróflega
+í stórum dráttum

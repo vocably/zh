@@ -1,1 +1,2 @@
-["volledig","grondig"]
+volledig
+grondig

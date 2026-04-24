@@ -1,1 +1,2 @@
-["nepřímo","zdrženlivě"]
+nepřímo
+zdrženlivě

@@ -1,1 +1,2 @@
-["Temperament","Natur"]
+Temperament
+Natur

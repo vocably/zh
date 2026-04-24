@@ -1,1 +1,2 @@
-["teisingumas","sąžiningumas"]
+teisingumas
+sąžiningumas

@@ -1,1 +1,3 @@
-["onartu","aitortu","errekonozitu"]
+onartu
+aitortu
+errekonozitu

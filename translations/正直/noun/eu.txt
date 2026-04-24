@@ -1,1 +1,2 @@
-["zintzotasun","justizia"]
+zintzotasun
+justizia

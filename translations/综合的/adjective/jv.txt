@@ -1,1 +1,2 @@
-["komprehensif","integratif"]
+komprehensif
+integratif

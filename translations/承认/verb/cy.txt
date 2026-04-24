@@ -1,1 +1,3 @@
-["cydnabod","derbyn","cyfaddef"]
+cydnabod
+derbyn
+cyfaddef

@@ -1,1 +1,2 @@
-["tezlik bilan","juda tez"]
+tezlik bilan
+juda tez

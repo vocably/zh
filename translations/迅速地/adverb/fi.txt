@@ -1,1 +1,2 @@
-["nopeasti","sukkelasti"]
+nopeasti
+sukkelasti

@@ -1,1 +1,2 @@
-["kanthi cepet","kanthi rikat"]
+kanthi cepet
+kanthi rikat

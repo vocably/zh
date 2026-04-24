@@ -1,1 +1,2 @@
-["malina","mailo"]
+malina
+mailo

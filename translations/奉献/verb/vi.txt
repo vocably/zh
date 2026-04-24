@@ -1,1 +1,2 @@
-["cống hiến","dâng hiến"]
+cống hiến
+dâng hiến

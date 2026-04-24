@@ -1,1 +1,2 @@
-["abrangente","compreensivo"]
+abrangente
+compreensivo

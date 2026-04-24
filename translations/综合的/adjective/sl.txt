@@ -1,1 +1,2 @@
-["celovit","sintetičen"]
+celovit
+sintetičen

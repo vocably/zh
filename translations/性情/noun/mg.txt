@@ -1,1 +1,2 @@
-["toetra","fomba"]
+toetra
+fomba

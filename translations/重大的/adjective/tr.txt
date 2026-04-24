@@ -1,1 +1,2 @@
-["önemli","büyük"]
+önemli
+büyük

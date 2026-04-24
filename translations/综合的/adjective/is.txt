@@ -1,1 +1,2 @@
-["alhliða","víðtækur"]
+alhliða
+víðtækur

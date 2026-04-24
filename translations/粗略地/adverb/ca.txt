@@ -1,1 +1,2 @@
-["aproximadament","a grans trets"]
+aproximadament
+a grans trets

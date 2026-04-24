@@ -1,1 +1,3 @@
-["de mala gana","a regañadientes","a la fuerza"]
+de mala gana
+a regañadientes
+a la fuerza

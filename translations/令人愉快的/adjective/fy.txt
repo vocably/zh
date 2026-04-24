@@ -1,1 +1,2 @@
-["noflik","aangenaam"]
+noflik
+aangenaam

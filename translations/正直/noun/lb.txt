@@ -1,1 +1,2 @@
-["Gerechtegkeet","Éierlechkeet"]
+Gerechtegkeet
+Éierlechkeet

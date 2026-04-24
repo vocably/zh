@@ -1,1 +1,3 @@
-["ƙofa","mafita","hanya"]
+ƙofa
+mafita
+hanya

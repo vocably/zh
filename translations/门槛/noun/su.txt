@@ -1,1 +1,3 @@
-["Ambang","Papalang","Cara"]
+Ambang
+Papalang
+Cara

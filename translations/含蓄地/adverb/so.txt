@@ -1,1 +1,2 @@
-["si dadban","si aan toos ahayn"]
+si dadban
+si aan toos ahayn

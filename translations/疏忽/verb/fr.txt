@@ -1,1 +1,2 @@
-["négliger","omettre"]
+négliger
+omettre

@@ -1,1 +1,2 @@
-["merkittävästi","huomattavasti"]
+merkittävästi
+huomattavasti

@@ -1,1 +1,3 @@
-["prag","limită","șiretlic"]
+prag
+limită
+șiretlic

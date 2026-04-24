@@ -1,1 +1,2 @@
-["chính trực","liêm khiết"]
+chính trực
+liêm khiết

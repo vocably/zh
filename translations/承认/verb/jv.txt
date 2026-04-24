@@ -1,1 +1,2 @@
-["ngakoni","ngakeni"]
+ngakoni
+ngakeni

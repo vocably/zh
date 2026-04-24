@@ -1,1 +1,2 @@
-["mālama 'ole","ho'opoina"]
+mālama 'ole
+ho'opoina

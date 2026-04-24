@@ -1,1 +1,2 @@
-["kwado","gosi na o ziri ezi"]
+kwado
+gosi na o ziri ezi

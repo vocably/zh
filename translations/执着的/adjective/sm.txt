@@ -1,1 +1,2 @@
-["faʻamaoni","tumau"]
+faʻamaoni
+tumau

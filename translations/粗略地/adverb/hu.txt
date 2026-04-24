@@ -1,1 +1,2 @@
-["durván","körülbelül"]
+durván
+körülbelül

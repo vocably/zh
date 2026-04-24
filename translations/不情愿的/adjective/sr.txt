@@ -1,1 +1,3 @@
-["nevoljan","nerado","protiv svoje volje"]
+nevoljan
+nerado
+protiv svoje volje

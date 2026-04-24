@@ -1,1 +1,2 @@
-["mendon","konsideron"]
+mendon
+konsideron

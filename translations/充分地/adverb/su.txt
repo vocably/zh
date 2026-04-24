@@ -1,1 +1,2 @@
-["sacukupna","sapinuhna"]
+sacukupna
+sapinuhna

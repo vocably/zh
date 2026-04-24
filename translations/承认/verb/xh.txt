@@ -1,1 +1,3 @@
-["vuma","amkela","qaphela"]
+vuma
+amkela
+qaphela

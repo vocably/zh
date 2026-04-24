@@ -1,1 +1,2 @@
-["muhimu","kubwa"]
+muhimu
+kubwa

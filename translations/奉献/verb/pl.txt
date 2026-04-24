@@ -1,1 +1,2 @@
-["poświęcać","ofiarować"]
+poświęcać
+ofiarować

@@ -1,1 +1,2 @@
-["dengan cepat","dengan tangkas"]
+dengan cepat
+dengan tangkas

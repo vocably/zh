@@ -1,1 +1,2 @@
-["elasticitate","rezistență"]
+elasticitate
+rezistență

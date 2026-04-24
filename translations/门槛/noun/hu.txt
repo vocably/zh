@@ -1,1 +1,3 @@
-["küszöb","bejutási korlát","fogás"]
+küszöb
+bejutási korlát
+fogás

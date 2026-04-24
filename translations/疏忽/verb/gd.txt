@@ -1,1 +1,2 @@
-["dearmad","neo-chùram"]
+dearmad
+neo-chùram

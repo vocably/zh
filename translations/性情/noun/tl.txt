@@ -1,1 +1,2 @@
-["ugali","temperamento"]
+ugali
+temperamento

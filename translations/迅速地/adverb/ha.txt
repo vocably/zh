@@ -1,1 +1,2 @@
-["da sauri","da hanzari"]
+da sauri
+da hanzari

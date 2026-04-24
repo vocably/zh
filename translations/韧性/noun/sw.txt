@@ -1,1 +1,2 @@
-["Uwezo wa kunyumbulika","Uvumilivu"]
+Uwezo wa kunyumbulika
+Uvumilivu

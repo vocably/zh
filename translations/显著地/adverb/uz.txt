@@ -1,1 +1,2 @@
-["sezilarli darajada","ancha"]
+sezilarli darajada
+ancha

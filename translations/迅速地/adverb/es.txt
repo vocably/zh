@@ -1,1 +1,2 @@
-["rápidamente","velozmente"]
+rápidamente
+velozmente

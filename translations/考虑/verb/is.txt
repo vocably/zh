@@ -1,1 +1,2 @@
-["íhuga","hugsa"]
+íhuga
+hugsa

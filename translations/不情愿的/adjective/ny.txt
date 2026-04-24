@@ -1,1 +1,3 @@
-["wokakamizidwa","wosafuna","wokakamiza"]
+wokakamizidwa
+wosafuna
+wokakamiza

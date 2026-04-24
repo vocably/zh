@@ -1,1 +1,2 @@
-["Si degdeg ah","Fudayd"]
+Si degdeg ah
+Fudayd

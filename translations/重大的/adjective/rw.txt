@@ -1,1 +1,2 @@
-["ingenzi","zikomeye"]
+ingenzi
+zikomeye

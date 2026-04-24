@@ -1,1 +1,2 @@
-["grubo","otprilike"]
+grubo
+otprilike

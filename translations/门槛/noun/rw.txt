@@ -1,1 +1,3 @@
-["umuryango","ireme","amayeri"]
+umuryango
+ireme
+amayeri

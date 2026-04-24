@@ -1,1 +1,2 @@
-["indirekte","underforstået"]
+indirekte
+underforstået

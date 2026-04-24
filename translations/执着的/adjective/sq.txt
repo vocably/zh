@@ -1,1 +1,2 @@
-["këmbëngulës","i vendosur"]
+këmbëngulës
+i vendosur

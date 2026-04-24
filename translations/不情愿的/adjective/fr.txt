@@ -1,1 +1,3 @@
-["à contrecœur","malgré soi","contre son gré"]
+à contrecœur
+malgré soi
+contre son gré

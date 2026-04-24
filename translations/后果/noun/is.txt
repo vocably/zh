@@ -1,1 +1,2 @@
-["afleiðing","útkoma"]
+afleiðing
+útkoma

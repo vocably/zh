@@ -1,1 +1,2 @@
-["kwerekana ko bifite ishingiro","gusobanura"]
+kwerekana ko bifite ishingiro
+gusobanura

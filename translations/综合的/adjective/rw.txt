@@ -1,1 +1,2 @@
-["byose hamwe","rusange"]
+byose hamwe
+rusange

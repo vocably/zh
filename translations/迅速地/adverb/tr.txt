@@ -1,1 +1,2 @@
-["hızla","çabucak"]
+hızla
+çabucak

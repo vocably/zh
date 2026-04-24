@@ -1,1 +1,2 @@
-["chứng minh","biện minh"]
+chứng minh
+biện minh

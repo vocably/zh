@@ -1,1 +1,2 @@
-["drejtësi","ndershmëri"]
+drejtësi
+ndershmëri

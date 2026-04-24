@@ -1,1 +1,2 @@
-["ubudahangarwa","gukomera"]
+ubudahangarwa
+gukomera

@@ -1,1 +1,3 @@
-["prag","granica","caka"]
+prag
+granica
+caka

@@ -1,1 +1,2 @@
-["vispārīgs","komplekss"]
+vispārīgs
+komplekss

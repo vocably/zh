@@ -1,1 +1,2 @@
-["færa","gefa"]
+færa
+gefa

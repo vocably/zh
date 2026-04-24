@@ -1,1 +1,2 @@
-["belangrik","groot"]
+belangrik
+groot

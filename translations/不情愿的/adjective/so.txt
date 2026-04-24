@@ -1,1 +1,3 @@
-["qasab","dadaal","aan ikhtiyaari ahayn"]
+qasab
+dadaal
+aan ikhtiyaari ahayn

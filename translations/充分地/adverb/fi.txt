@@ -1,1 +1,2 @@
-["täysin","kokonaan"]
+täysin
+kokonaan

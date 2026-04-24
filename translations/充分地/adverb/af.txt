@@ -1,1 +1,2 @@
-["ten volle","volkome"]
+ten volle
+volkome

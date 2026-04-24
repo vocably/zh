@@ -1,1 +1,2 @@
-["maldetale","proksimume"]
+maldetale
+proksimume

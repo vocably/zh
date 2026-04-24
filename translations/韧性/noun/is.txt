@@ -1,1 +1,2 @@
-["seigla","þrautseigja"]
+seigla
+þrautseigja

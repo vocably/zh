@@ -1,1 +1,2 @@
-["agradable","praceiro"]
+agradable
+praceiro

@@ -1,1 +1,2 @@
-["fontos","jelentős"]
+fontos
+jelentős

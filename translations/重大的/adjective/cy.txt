@@ -1,1 +1,2 @@
-["pwysig","mawr"]
+pwysig
+mawr

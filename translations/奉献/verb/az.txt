@@ -1,1 +1,2 @@
-["təqdim etmək","həsr etmək"]
+təqdim etmək
+həsr etmək

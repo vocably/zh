@@ -1,1 +1,2 @@
-["muhiim","weyn"]
+muhiim
+weyn

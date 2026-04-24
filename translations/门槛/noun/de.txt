@@ -1,1 +1,3 @@
-["die Schwelle","die Hürde","der Trick"]
+die Schwelle
+die Hürde
+der Trick

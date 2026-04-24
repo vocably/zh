@@ -1,1 +1,2 @@
-["memberi","menyumbang"]
+memberi
+menyumbang

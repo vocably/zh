@@ -1,1 +1,2 @@
-["isilumko","ulumkile"]
+isilumko
+ulumkile

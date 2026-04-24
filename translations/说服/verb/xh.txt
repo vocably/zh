@@ -1,1 +1,2 @@
-["ncenga","cenga"]
+ncenga
+cenga

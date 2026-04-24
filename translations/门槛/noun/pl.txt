@@ -1,1 +1,3 @@
-["próg","ograniczenie","sztuczka"]
+próg
+ograniczenie
+sztuczka

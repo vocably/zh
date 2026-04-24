@@ -1,1 +1,2 @@
-["agrabla","plezura"]
+agrabla
+plezura

@@ -1,1 +1,2 @@
-["kem-kemden","basgançaklaýyn"]
+kem-kemden
+basgançaklaýyn

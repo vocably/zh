@@ -1,1 +1,2 @@
-["kururamisa","kutsigira"]
+kururamisa
+kutsigira

@@ -1,1 +1,3 @@
-["jammetti","jirrikonoxxi","jaċċetta"]
+jammetti
+jirrikonoxxi
+jaċċetta

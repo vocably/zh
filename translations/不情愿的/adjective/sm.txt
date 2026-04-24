@@ -1,1 +1,3 @@
-["fa'amalosia","lē fiafia","lē ma'elega"]
+fa'amalosia
+lē fiafia
+lē ma'elega

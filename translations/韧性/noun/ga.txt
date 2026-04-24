@@ -1,1 +1,2 @@
-["seasmhacht","teanntás"]
+seasmhacht
+teanntás

@@ -1,1 +1,2 @@
-["žilavost","otpornost"]
+žilavost
+otpornost

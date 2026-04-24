@@ -1,1 +1,2 @@
-["rettferdiggjøre","begrunne"]
+rettferdiggjøre
+begrunne

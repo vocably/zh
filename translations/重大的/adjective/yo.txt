@@ -1,1 +1,2 @@
-["pataki","nla"]
+pataki
+nla

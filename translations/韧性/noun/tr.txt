@@ -1,1 +1,2 @@
-["esneklik","dayanıklılık"]
+esneklik
+dayanıklılık

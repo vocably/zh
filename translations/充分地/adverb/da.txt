@@ -1,1 +1,2 @@
-["fuldt ud","til fulde"]
+fuldt ud
+til fulde

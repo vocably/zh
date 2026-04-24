@@ -1,1 +1,3 @@
-["niechętny","przymusowy","wymuszony"]
+niechętny
+przymusowy
+wymuszony

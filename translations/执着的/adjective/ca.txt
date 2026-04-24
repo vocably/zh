@@ -1,1 +1,2 @@
-["persistent","tenaç"]
+persistent
+tenaç

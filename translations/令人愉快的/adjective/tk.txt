@@ -1,1 +1,2 @@
-["ýakymly","şatlykly"]
+ýakymly
+şatlykly

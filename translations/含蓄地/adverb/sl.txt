@@ -1,1 +1,2 @@
-["posredno","indirektno"]
+posredno
+indirektno

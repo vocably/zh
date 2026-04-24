@@ -1,1 +1,2 @@
-["rapide","tuj"]
+rapide
+tuj

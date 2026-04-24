@@ -1,1 +1,2 @@
-["cikakken","sosai"]
+cikakken
+sosai

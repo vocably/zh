@@ -1,1 +1,2 @@
-["jujur","lempeng"]
+jujur
+lempeng

@@ -1,1 +1,2 @@
-["átfogó","komplex"]
+átfogó
+komplex

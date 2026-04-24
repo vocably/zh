@@ -1,1 +1,2 @@
-["intégrité","droiture"]
+intégrité
+droiture

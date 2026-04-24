@@ -1,1 +1,2 @@
-["kanthi cekap","kanthi jangkep"]
+kanthi cekap
+kanthi jangkep

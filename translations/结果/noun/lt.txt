@@ -1,1 +1,2 @@
-["rezultatas","išdava"]
+rezultatas
+išdava

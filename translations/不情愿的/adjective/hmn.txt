@@ -1,1 +1,3 @@
-["tsis xav","yuam","tsis kam"]
+tsis xav
+yuam
+tsis kam

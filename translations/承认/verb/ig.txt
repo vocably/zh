@@ -1,1 +1,3 @@
-["kweta","ịnakwere","ịmata"]
+kweta
+ịnakwere
+ịmata

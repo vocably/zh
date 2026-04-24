@@ -1,1 +1,2 @@
-["grovt","omtrentligt"]
+grovt
+omtrentligt

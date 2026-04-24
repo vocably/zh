@@ -1,1 +1,2 @@
-["ofre","tilegne"]
+ofre
+tilegne

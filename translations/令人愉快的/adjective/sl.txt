@@ -1,1 +1,2 @@
-["prijeten","vesel"]
+prijeten
+vesel

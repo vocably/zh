@@ -1,1 +1,3 @@
-["palang","wates","cara"]
+palang
+wates
+cara

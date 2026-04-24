@@ -1,1 +1,2 @@
-["bag'ishlamoq","fidokorona xizmat qilmoq"]
+bag'ishlamoq
+fidokorona xizmat qilmoq

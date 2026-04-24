@@ -1,1 +1,2 @@
-["fi fun","yà fún"]
+fi fun
+yà fún

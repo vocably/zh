@@ -1,1 +1,3 @@
-["slenkstis","riba","gudrybė"]
+slenkstis
+riba
+gudrybė

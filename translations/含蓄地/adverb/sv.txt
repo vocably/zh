@@ -1,1 +1,2 @@
-["indirekt","underförstått"]
+indirekt
+underförstått

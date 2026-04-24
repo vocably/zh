@@ -1,1 +1,2 @@
-["important","majeur"]
+important
+majeur

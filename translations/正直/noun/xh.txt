@@ -1,1 +1,2 @@
-["ubulungisa","inyaniso"]
+ubulungisa
+inyaniso

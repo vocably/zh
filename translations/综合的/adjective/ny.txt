@@ -1,1 +1,2 @@
-["zonse","wathunthu"]
+zonse
+wathunthu

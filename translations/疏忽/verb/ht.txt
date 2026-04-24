@@ -1,1 +1,2 @@
-["neglije","blie"]
+neglije
+blie

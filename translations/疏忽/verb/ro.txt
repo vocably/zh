@@ -1,1 +1,2 @@
-["a neglija","a omite"]
+a neglija
+a omite

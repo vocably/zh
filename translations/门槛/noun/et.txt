@@ -1,1 +1,3 @@
-["lävepakk","künnis","nipp"]
+lävepakk
+künnis
+nipp

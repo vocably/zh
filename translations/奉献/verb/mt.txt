@@ -1,1 +1,2 @@
-["jiddedika","joffri"]
+jiddedika
+joffri

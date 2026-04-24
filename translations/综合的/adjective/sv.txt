@@ -1,1 +1,2 @@
-["omfattande","integrerad"]
+omfattande
+integrerad

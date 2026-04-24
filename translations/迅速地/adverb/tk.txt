@@ -1,1 +1,2 @@
-["çalt","tiz"]
+çalt
+tiz

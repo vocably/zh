@@ -1,1 +1,2 @@
-["pružnost","houževnatost"]
+pružnost
+houževnatost

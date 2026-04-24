@@ -1,1 +1,2 @@
-["zvážiť","brať ohľad"]
+zvážiť
+brať ohľad

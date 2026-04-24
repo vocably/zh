@@ -1,1 +1,3 @@
-["kusa","kusada","kumanikidzwa"]
+kusa
+kusada
+kumanikidzwa

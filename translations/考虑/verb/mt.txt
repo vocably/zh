@@ -1,1 +1,2 @@
-["ikkunsidra","qies"]
+ikkunsidra
+qies

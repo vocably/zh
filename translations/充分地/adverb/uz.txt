@@ -1,1 +1,2 @@
-["to'liq","butunlay"]
+to'liq
+butunlay

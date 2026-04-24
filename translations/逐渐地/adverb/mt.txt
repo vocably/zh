@@ -1,1 +1,2 @@
-["gradwalment","bil-mod il-mod"]
+gradwalment
+bil-mod il-mod

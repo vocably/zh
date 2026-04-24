@@ -1,1 +1,2 @@
-["ievērojami","uzkrītoši"]
+ievērojami
+uzkrītoši

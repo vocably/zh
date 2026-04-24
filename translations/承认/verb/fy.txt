@@ -1,1 +1,3 @@
-["tajaan","erkennen","bekennen"]
+tajaan
+erkennen
+bekennen

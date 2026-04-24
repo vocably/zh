@@ -1,1 +1,2 @@
-["gutekereza","kwita"]
+gutekereza
+kwita

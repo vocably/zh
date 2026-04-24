@@ -1,1 +1,2 @@
-["indirect","aluziv"]
+indirect
+aluziv

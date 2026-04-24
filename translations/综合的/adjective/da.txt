@@ -1,1 +1,2 @@
-["omfattende","integreret"]
+omfattende
+integreret

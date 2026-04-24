@@ -1,1 +1,2 @@
-["halos","humigit-kumulang"]
+halos
+humigit-kumulang

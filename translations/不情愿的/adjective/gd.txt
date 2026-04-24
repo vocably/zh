@@ -1,1 +1,3 @@
-["neo-thoileach","ain-deònach","mi-thoilichte"]
+neo-thoileach
+ain-deònach
+mi-thoilichte

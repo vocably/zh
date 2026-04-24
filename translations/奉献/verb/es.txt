@@ -1,1 +1,2 @@
-["ofrecer","dedicar"]
+ofrecer
+dedicar

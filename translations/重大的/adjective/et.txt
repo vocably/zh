@@ -1,1 +1,2 @@
-["suur","oluline"]
+suur
+oluline

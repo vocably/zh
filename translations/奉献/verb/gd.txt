@@ -1,1 +1,2 @@
-["thoir seachad","coisrig"]
+thoir seachad
+coisrig

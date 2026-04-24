@@ -1,1 +1,2 @@
-["thuyết phục","khuyên"]
+thuyết phục
+khuyên

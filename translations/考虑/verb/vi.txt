@@ -1,1 +1,2 @@
-["cân nhắc","xem xét"]
+cân nhắc
+xem xét

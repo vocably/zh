@@ -1,1 +1,3 @@
-["drempel","drumpel","ingang"]
+drempel
+drumpel
+ingang

@@ -1,1 +1,2 @@
-["fe'l-atvor","xarakter"]
+fe'l-atvor
+xarakter

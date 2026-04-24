@@ -1,1 +1,3 @@
-["drompel","beheinings","tûke"]
+drompel
+beheinings
+tûke

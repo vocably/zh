@@ -1,1 +1,2 @@
-["häsiýet","gylyk"]
+häsiýet
+gylyk

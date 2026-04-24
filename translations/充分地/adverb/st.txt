@@ -1,1 +1,2 @@
-["ka botlalo","ka ho feletseng"]
+ka botlalo
+ka ho feletseng

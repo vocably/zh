@@ -1,1 +1,3 @@
-["pragu","kufiri","sekreti"]
+pragu
+kufiri
+sekreti

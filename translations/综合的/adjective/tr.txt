@@ -1,1 +1,2 @@
-["kapsamlı","bütünsel"]
+kapsamlı
+bütünsel

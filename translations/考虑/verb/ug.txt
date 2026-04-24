@@ -1,1 +1,2 @@
-["oylanmaq","könül bölmək"]
+oylanmaq
+könül bölmək

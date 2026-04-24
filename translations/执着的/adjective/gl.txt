@@ -1,1 +1,2 @@
-["persistente","tenaz"]
+persistente
+tenaz

@@ -1,1 +1,2 @@
-["vztrajen","nepopustljiv"]
+vztrajen
+nepopustljiv

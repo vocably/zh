@@ -1,1 +1,2 @@
-["gu follaiseach","gu soilleir"]
+gu follaiseach
+gu soilleir

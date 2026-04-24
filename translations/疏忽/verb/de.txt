@@ -1,1 +1,2 @@
-["versäumen","vergessen"]
+versäumen
+vergessen

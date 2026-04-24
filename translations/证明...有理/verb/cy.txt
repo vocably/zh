@@ -1,1 +1,2 @@
-["cyfiawnhau","dilysu"]
+cyfiawnhau
+dilysu

@@ -1,1 +1,3 @@
-["marinka","caqabad","sir"]
+marinka
+caqabad
+sir

@@ -1,1 +1,2 @@
-["gean","meon"]
+gean
+meon

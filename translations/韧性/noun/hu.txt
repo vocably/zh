@@ -1,1 +1,2 @@
-["rugalmasság","ellenálló képesség"]
+rugalmasság
+ellenálló képesség

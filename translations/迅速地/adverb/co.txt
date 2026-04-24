@@ -1,1 +1,2 @@
-["rapidamente","subitu"]
+rapidamente
+subitu

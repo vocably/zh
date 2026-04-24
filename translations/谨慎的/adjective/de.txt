@@ -1,1 +1,2 @@
-["vorsichtig","umsichtig"]
+vorsichtig
+umsichtig

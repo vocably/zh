@@ -1,1 +1,2 @@
-["tổng hợp","tổng thể"]
+tổng hợp
+tổng thể

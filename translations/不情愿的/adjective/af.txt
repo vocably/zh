@@ -1,1 +1,3 @@
-["onwillig","teësinnig","gedwonge"]
+onwillig
+teësinnig
+gedwonge

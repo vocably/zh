@@ -1,1 +1,2 @@
-["veerkracht","taaiheid"]
+veerkracht
+taaiheid

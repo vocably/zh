@@ -1,1 +1,3 @@
-["gogoz kontrako","nahigabeko","borondatezkoa ez den"]
+gogoz kontrako
+nahigabeko
+borondatezkoa ez den

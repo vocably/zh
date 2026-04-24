@@ -1,1 +1,2 @@
-["kushtoj","dhuroj"]
+kushtoj
+dhuroj

@@ -1,1 +1,2 @@
-["persistente","determinado"]
+persistente
+determinado

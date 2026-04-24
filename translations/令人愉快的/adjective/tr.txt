@@ -1,1 +1,2 @@
-["keyifli","hoş"]
+keyifli
+hoş

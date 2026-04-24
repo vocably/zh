@@ -1,1 +1,3 @@
-["bila hiari","kwa shingo upande","kwa taabu"]
+bila hiari
+kwa shingo upande
+kwa taabu

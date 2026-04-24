@@ -1,1 +1,2 @@
-["bejn wieħed u ieħor","fil-qosor"]
+bejn wieħed u ieħor
+fil-qosor

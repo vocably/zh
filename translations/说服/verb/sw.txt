@@ -1,1 +1,2 @@
-["shawishi","himiza"]
+shawishi
+himiza

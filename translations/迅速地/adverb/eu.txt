@@ -1,1 +1,2 @@
-["azkar","arin"]
+azkar
+arin

@@ -1,1 +1,2 @@
-["fullt ut","til fulle"]
+fullt ut
+til fulle

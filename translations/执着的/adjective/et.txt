@@ -1,1 +1,2 @@
-["visa","püsiv"]
+visa
+püsiv

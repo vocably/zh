@@ -1,1 +1,2 @@
-["cumplessivu","integrale"]
+cumplessivu
+integrale

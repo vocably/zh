@@ -1,1 +1,2 @@
-["rapidement","vite"]
+rapidement
+vite

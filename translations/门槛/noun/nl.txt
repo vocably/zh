@@ -1,1 +1,3 @@
-["drempel","toegangsdrempel","knop"]
+drempel
+toegangsdrempel
+knop

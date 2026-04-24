@@ -1,1 +1,3 @@
-["wegah","peksa","ora gelem"]
+wegah
+peksa
+ora gelem

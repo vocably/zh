@@ -1,1 +1,2 @@
-["uczciwość","prawość"]
+uczciwość
+prawość

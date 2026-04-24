@@ -1,1 +1,2 @@
-["membenarkan","mewajarkan"]
+membenarkan
+mewajarkan

@@ -1,1 +1,3 @@
-["bosaga","şert","ýol"]
+bosaga
+şert
+ýol

@@ -1,1 +1,2 @@
-["jelentősen","számottevően"]
+jelentősen
+számottevően

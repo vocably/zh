@@ -1,1 +1,3 @@
-["ngưỡng cửa","ngưỡng","bí quyết"]
+ngưỡng cửa
+ngưỡng
+bí quyết

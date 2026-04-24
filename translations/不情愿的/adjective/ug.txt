@@ -1,1 +1,3 @@
-["xalimsiz","majburluq","isteksiz"]
+xalimsiz
+majburluq
+isteksiz

@@ -1,1 +1,2 @@
-["försumma","glömma"]
+försumma
+glömma

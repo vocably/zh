@@ -1,1 +1,2 @@
-["karakter","aard"]
+karakter
+aard

@@ -1,1 +1,3 @@
-["nejevoljen","nerad","prisiljen"]
+nejevoljen
+nerad
+prisiljen

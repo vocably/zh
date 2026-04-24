@@ -1,1 +1,2 @@
-["go leor","go hiomlán"]
+go leor
+go hiomlán

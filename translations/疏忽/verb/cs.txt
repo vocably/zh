@@ -1,1 +1,2 @@
-["zanedbávat","opomenout"]
+zanedbávat
+opomenout

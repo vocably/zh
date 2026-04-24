@@ -1,1 +1,2 @@
-["maiore","impurtante"]
+maiore
+impurtante

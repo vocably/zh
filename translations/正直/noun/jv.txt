@@ -1,1 +1,2 @@
-["jujur","adil"]
+jujur
+adil

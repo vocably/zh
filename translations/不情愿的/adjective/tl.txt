@@ -1,1 +1,3 @@
-["sapilitan","labag sa kalooban","atubili"]
+sapilitan
+labag sa kalooban
+atubili

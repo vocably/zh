@@ -1,1 +1,2 @@
-["markant","betydeligt"]
+markant
+betydeligt

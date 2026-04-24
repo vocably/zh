@@ -1,1 +1,3 @@
-["moeli","leqheka","leqiti"]
+moeli
+leqheka
+leqiti

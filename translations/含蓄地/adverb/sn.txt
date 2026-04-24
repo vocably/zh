@@ -1,1 +1,2 @@
-["Nenzira isina kunanga","Nenzira isina kujeka"]
+Nenzira isina kunanga
+Nenzira isina kujeka

@@ -1,1 +1,3 @@
-["kynnys","raja","niksi"]
+kynnys
+raja
+niksi

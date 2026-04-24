@@ -1,1 +1,2 @@
-["skapsmót","geðslag"]
+skapsmót
+geðslag

@@ -1,1 +1,2 @@
-["nepristrasnost","objektivnost"]
+nepristrasnost
+objektivnost

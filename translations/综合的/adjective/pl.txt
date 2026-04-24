@@ -1,1 +1,2 @@
-["kompleksowy","całościowy"]
+kompleksowy
+całościowy

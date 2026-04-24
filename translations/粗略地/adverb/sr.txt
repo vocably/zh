@@ -1,1 +1,2 @@
-["grubo","okvirno"]
+grubo
+okvirno

@@ -1,1 +1,2 @@
-["kahihinatnan","bunga"]
+kahihinatnan
+bunga

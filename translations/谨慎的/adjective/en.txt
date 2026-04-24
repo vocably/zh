@@ -1,1 +1,2 @@
-["cautious","prudent"]
+cautious
+prudent

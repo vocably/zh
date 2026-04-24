@@ -1,1 +1,2 @@
-["oikeuttaa","perustella"]
+oikeuttaa
+perustella

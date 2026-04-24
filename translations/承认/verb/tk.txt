@@ -1,1 +1,3 @@
-["boýun almak","ykwrar etmek","tassyk etmek"]
+boýun almak
+ykwrar etmek
+tassyk etmek

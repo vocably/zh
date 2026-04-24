@@ -1,1 +1,3 @@
-["ambang","syarat","rahsia"]
+ambang
+syarat
+rahsia

@@ -1,1 +1,2 @@
-["žilavost","vzdržljivost"]
+žilavost
+vzdržljivost

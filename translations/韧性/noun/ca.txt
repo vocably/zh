@@ -1,1 +1,2 @@
-["resiliència","tenacitat"]
+resiliència
+tenacitat

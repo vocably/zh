@@ -1,1 +1,2 @@
-["go tapa","go sciobtha"]
+go tapa
+go sciobtha

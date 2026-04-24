@@ -1,1 +1,2 @@
-["výsledok","skóre"]
+výsledok
+skóre

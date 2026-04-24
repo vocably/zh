@@ -1,1 +1,2 @@
-["hati-hati","cermat"]
+hati-hati
+cermat

@@ -1,1 +1,3 @@
-["paepae","faitotoa","auala"]
+paepae
+faitotoa
+auala

@@ -1,1 +1,3 @@
-["ngokungafuni","ngokungenamvume","ngokunyanzelwa"]
+ngokungafuni
+ngokungenamvume
+ngokunyanzelwa

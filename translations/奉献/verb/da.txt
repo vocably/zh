@@ -1,1 +1,2 @@
-["ofre","dedikere"]
+ofre
+dedikere

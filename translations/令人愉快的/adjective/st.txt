@@ -1,1 +1,2 @@
-["kgohelo","thabo"]
+kgohelo
+thabo

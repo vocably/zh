@@ -1,1 +1,2 @@
-["malonus","džiaugsmingas"]
+malonus
+džiaugsmingas

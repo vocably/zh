@@ -1,1 +1,2 @@
-["elastiklik","dözümlülük"]
+elastiklik
+dözümlülük

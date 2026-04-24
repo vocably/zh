@@ -1,1 +1,2 @@
-["taxaddar leh","digtoon"]
+taxaddar leh
+digtoon

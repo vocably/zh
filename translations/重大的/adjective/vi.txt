@@ -1,1 +1,2 @@
-["trọng đại","quan trọng"]
+trọng đại
+quan trọng

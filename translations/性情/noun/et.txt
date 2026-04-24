@@ -1,1 +1,2 @@
-["iseloom","loomus"]
+iseloom
+loomus

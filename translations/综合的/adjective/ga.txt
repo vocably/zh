@@ -1,1 +1,2 @@
-["cuimsitheach","comhtháite"]
+cuimsitheach
+comhtháite

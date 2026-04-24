@@ -1,1 +1,3 @@
-["mengakui","mengiktiraf","memperakui"]
+mengakui
+mengiktiraf
+memperakui

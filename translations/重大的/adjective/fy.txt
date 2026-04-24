@@ -1,1 +1,2 @@
-["grut","wichtich"]
+grut
+wichtich

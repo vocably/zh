@@ -1,1 +1,2 @@
-["apleisti","užmiršti"]
+apleisti
+užmiršti

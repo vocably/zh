@@ -1,1 +1,3 @@
-["na-achọghị","na-amanye","na-enweghị obi ụtọ"]
+na-achọghị
+na-amanye
+na-enweghị obi ụtọ

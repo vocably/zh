@@ -1,1 +1,2 @@
-["oikeudenmukainen","rehellinen"]
+oikeudenmukainen
+rehellinen

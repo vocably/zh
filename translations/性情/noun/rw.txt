@@ -1,1 +1,2 @@
-["imiterere","kamere"]
+imiterere
+kamere

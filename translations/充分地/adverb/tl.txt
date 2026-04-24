@@ -1,1 +1,2 @@
-["lubos","ganap"]
+lubos
+ganap

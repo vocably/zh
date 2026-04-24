@@ -1,1 +1,3 @@
-["istəmədən","könülsüz","məcburi"]
+istəmədən
+könülsüz
+məcburi

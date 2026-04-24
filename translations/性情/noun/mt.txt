@@ -1,1 +1,2 @@
-["temperament","karattru"]
+temperament
+karattru

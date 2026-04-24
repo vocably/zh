@@ -1,1 +1,2 @@
-["üns bermezlik","ýatdan çykarmak"]
+üns bermezlik
+ýatdan çykarmak

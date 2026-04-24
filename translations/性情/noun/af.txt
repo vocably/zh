@@ -1,1 +1,2 @@
-["geaardheid","temperament"]
+geaardheid
+temperament

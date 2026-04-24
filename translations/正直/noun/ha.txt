@@ -1,1 +1,2 @@
-["adalci","gaskiya"]
+adalci
+gaskiya

@@ -1,1 +1,3 @@
-["seuil","limite","astuce"]
+seuil
+limite
+astuce

@@ -1,1 +1,3 @@
-["kontrè ak volonte","kontrè ak kè","pa volontè"]
+kontrè ak volonte
+kontrè ak kè
+pa volontè

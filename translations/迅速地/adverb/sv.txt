@@ -1,1 +1,2 @@
-["snabbt","skyndsamt"]
+snabbt
+skyndsamt

@@ -1,1 +1,2 @@
-["tính tình","tính nết"]
+tính tình
+tính nết

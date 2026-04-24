@@ -1,1 +1,3 @@
-["ho sa ratehe","ka ho se rate","ka ho se ikemisetse"]
+ho sa ratehe
+ka ho se rate
+ka ho se ikemisetse

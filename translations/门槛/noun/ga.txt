@@ -1,1 +1,3 @@
-["tairseach","tairseach an dorais","prionsabal"]
+tairseach
+tairseach an dorais
+prionsabal

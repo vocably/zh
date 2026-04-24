@@ -1,1 +1,3 @@
-["isteksiz","gönülsüz","istemeyerek"]
+isteksiz
+gönülsüz
+istemeyerek

@@ -1,1 +1,2 @@
-["abrangente","global"]
+abrangente
+global

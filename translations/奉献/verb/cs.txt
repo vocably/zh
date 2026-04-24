@@ -1,1 +1,2 @@
-["obětovat","věnovat"]
+obětovat
+věnovat

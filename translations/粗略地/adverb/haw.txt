@@ -1,1 +1,2 @@
-["ʻaneʻane","kahi"]
+ʻaneʻane
+kahi

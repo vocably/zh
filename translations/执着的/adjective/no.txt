@@ -1,1 +1,2 @@
-["vedholdende","sta"]
+vedholdende
+sta

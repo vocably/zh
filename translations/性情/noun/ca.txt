@@ -1,1 +1,2 @@
-["caràcter","temperament"]
+caràcter
+temperament

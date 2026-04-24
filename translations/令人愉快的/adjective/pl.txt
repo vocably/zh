@@ -1,1 +1,2 @@
-["przyjemny","zachwycający"]
+przyjemny
+zachwycający

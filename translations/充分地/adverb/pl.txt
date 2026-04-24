@@ -1,1 +1,2 @@
-["wystarczająco","całkowicie"]
+wystarczająco
+całkowicie

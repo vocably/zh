@@ -1,1 +1,3 @@
-["limiar","soleira","segredo"]
+limiar
+soleira
+segredo

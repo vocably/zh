@@ -1,1 +1,2 @@
-["oanbiede","wije"]
+oanbiede
+wije

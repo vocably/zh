@@ -1,1 +1,2 @@
-["rûchwei","globaal"]
+rûchwei
+globaal

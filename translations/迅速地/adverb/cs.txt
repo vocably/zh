@@ -1,1 +1,2 @@
-["rychle","hbitě"]
+rychle
+hbitě

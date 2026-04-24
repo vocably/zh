@@ -1,1 +1,2 @@
-["chilungamo","kuona mtima"]
+chilungamo
+kuona mtima

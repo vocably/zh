@@ -1,1 +1,2 @@
-["karkeasti","suunnilleen"]
+karkeasti
+suunnilleen

@@ -1,1 +1,2 @@
-["ka lebelo","ka potlako"]
+ka lebelo
+ka potlako

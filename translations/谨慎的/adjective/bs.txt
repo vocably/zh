@@ -1,1 +1,2 @@
-["oprezan","pažljiv"]
+oprezan
+pažljiv

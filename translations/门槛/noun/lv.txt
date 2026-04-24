@@ -1,1 +1,3 @@
-["slieksnis","ierobežojums","knifs"]
+slieksnis
+ierobežojums
+knifs

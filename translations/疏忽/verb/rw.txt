@@ -1,1 +1,2 @@
-["kwirengagiza","kudohoka"]
+kwirengagiza
+kudohoka

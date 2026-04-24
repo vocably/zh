@@ -1,1 +1,3 @@
-["relutante","contra a vontade","involuntário"]
+relutante
+contra a vontade
+involuntário

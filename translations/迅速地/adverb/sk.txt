@@ -1,1 +1,2 @@
-["rýchlo","promptne"]
+rýchlo
+promptne

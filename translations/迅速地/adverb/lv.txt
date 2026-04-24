@@ -1,1 +1,2 @@
-["ātri","nekavējoties"]
+ātri
+nekavējoties

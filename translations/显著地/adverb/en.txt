@@ -1,1 +1,2 @@
-["remarkably","strikingly"]
+remarkably
+strikingly

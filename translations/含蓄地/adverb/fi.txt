@@ -1,1 +1,2 @@
-["epäsuorasti","hienovaraisesti"]
+epäsuorasti
+hienovaraisesti

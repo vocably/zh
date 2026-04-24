@@ -1,1 +1,2 @@
-["ike","ntachi obi"]
+ike
+ntachi obi

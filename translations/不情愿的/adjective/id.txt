@@ -1,1 +1,3 @@
-["enggan","segan","terpaksa"]
+enggan
+segan
+terpaksa

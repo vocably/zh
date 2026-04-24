@@ -1,1 +1,2 @@
-["pomemben","velik"]
+pomemben
+velik

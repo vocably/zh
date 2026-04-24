@@ -1,1 +1,2 @@
-["descoidar","neglixir"]
+descoidar
+neglixir

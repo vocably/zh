@@ -1,1 +1,2 @@
-["ní fúnfún","ní kedere"]
+ní fúnfún
+ní kedere

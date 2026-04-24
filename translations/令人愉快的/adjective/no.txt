@@ -1,1 +1,2 @@
-["behagelig","hyggelig"]
+behagelig
+hyggelig

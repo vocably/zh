@@ -1,1 +1,2 @@
-["kanthi ora langsung","kanthi alus"]
+kanthi ora langsung
+kanthi alus

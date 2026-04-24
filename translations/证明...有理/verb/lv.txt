@@ -1,1 +1,2 @@
-["attaisnot","pamatot"]
+attaisnot
+pamatot

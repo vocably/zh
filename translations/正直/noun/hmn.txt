@@ -1,1 +1,2 @@
-["ncaj","siab ncaj"]
+ncaj
+siab ncaj

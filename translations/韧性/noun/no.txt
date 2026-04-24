@@ -1,1 +1,2 @@
-["seighet","motstandskraft"]
+seighet
+motstandskraft

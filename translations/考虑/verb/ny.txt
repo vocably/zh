@@ -1,1 +1,2 @@
-["kuganiza","kulingalira"]
+kuganiza
+kulingalira

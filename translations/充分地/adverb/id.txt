@@ -1,1 +1,2 @@
-["sepenuhnya","sepenuh-penuhnya"]
+sepenuhnya
+sepenuh-penuhnya

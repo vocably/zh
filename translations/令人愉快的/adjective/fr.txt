@@ -1,1 +1,2 @@
-["agréable","plaisant"]
+agréable
+plaisant

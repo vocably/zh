@@ -1,1 +1,2 @@
-["temperament","disposition"]
+temperament
+disposition

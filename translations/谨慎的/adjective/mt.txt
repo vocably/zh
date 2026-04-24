@@ -1,1 +1,2 @@
-["kawt","prudenti"]
+kawt
+prudenti

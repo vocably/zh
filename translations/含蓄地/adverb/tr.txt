@@ -1,1 +1,2 @@
-["üstü kapalı","dolaylı"]
+üstü kapalı
+dolaylı

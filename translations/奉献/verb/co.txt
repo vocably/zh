@@ -1,1 +1,2 @@
-["dà","offre"]
+dà
+offre

@@ -1,1 +1,3 @@
-["ambang","ambang pintu","kunci"]
+ambang
+ambang pintu
+kunci

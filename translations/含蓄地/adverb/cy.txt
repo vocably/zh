@@ -1,1 +1,2 @@
-["yn awgrymog","yn amwys"]
+yn awgrymog
+yn amwys

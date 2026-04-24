@@ -1,1 +1,2 @@
-["integreeritud","kompleksne"]
+integreeritud
+kompleksne

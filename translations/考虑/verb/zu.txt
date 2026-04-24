@@ -1,1 +1,2 @@
-["cabanga","naka"]
+cabanga
+naka

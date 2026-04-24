@@ -1,1 +1,2 @@
-["kulimbikira","kusatopa"]
+kulimbikira
+kusatopa

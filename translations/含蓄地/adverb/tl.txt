@@ -1,1 +1,2 @@
-["hindi direkta","palihim"]
+hindi direkta
+palihim

@@ -1,1 +1,2 @@
-["stor","vigtig"]
+stor
+vigtig

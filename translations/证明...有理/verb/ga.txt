@@ -1,1 +1,2 @@
-["fírinniú","réasúnú"]
+fírinniú
+réasúnú

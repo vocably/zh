@@ -1,1 +1,3 @@
-["istamay","xohlamay","majburan"]
+istamay
+xohlamay
+majburan

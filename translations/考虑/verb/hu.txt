@@ -1,1 +1,2 @@
-["megfontol","figyelembe vesz"]
+megfontol
+figyelembe vesz

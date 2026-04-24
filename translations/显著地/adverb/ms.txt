@@ -1,1 +1,2 @@
-["dengan ketara","dengan jelas"]
+dengan ketara
+dengan jelas

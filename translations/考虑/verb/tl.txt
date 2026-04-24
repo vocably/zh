@@ -1,1 +1,2 @@
-["isipin","isaalang-alang"]
+isipin
+isaalang-alang

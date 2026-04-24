@@ -1,1 +1,2 @@
-["karakter","huy"]
+karakter
+huy

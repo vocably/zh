@@ -1,1 +1,2 @@
-["réttlæta","sanna"]
+réttlæta
+sanna

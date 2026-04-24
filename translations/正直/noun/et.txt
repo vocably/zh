@@ -1,1 +1,2 @@
-["õiglus","ausus"]
+õiglus
+ausus

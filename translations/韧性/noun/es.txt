@@ -1,1 +1,2 @@
-["resistencia","tenacidad"]
+resistencia
+tenacidad

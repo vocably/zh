@@ -1,1 +1,2 @@
-["perangai","sifat"]
+perangai
+sifat

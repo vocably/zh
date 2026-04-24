@@ -1,1 +1,3 @@
-["ricunnosce","ammette","accettà"]
+ricunnosce
+ammette
+accettà

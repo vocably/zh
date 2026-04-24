@@ -1,1 +1,2 @@
-["järjest","tasapisi"]
+järjest
+tasapisi

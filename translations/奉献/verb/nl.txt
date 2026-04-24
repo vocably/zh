@@ -1,1 +1,2 @@
-["aanbieden","wijden"]
+aanbieden
+wijden

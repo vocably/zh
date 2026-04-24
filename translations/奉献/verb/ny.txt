@@ -1,1 +1,2 @@
-["pereka","patulira"]
+pereka
+patulira

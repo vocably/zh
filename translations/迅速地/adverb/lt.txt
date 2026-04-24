@@ -1,1 +1,2 @@
-["greitai","vikriai"]
+greitai
+vikriai

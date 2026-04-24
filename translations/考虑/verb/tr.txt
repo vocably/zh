@@ -1,1 +1,2 @@
-["düşünmek","göz önünde bulundurmak"]
+düşünmek
+göz önünde bulundurmak

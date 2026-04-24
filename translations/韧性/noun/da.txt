@@ -1,1 +1,2 @@
-["elasticitet","sejhed"]
+elasticitet
+sejhed

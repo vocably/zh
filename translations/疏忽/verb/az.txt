@@ -1,1 +1,2 @@
-["nəzərdən qaçırmaq","səhlənkarlıq etmək"]
+nəzərdən qaçırmaq
+səhlənkarlıq etmək

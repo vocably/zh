@@ -1,1 +1,2 @@
-["apytiksliai","grubiai"]
+apytiksliai
+grubiai

@@ -1,1 +1,2 @@
-["beachdachadh","smaoineachadh"]
+beachdachadh
+smaoineachadh

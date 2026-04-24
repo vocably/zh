@@ -1,1 +1,2 @@
-["pīwari","whakahari"]
+pīwari
+whakahari

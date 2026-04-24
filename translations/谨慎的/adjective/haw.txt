@@ -1,1 +1,2 @@
-["akahele","mālama"]
+akahele
+mālama

@@ -1,1 +1,2 @@
-["si qiyaas ah","si kooban"]
+si qiyaas ah
+si kooban

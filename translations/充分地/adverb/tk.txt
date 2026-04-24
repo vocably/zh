@@ -1,1 +1,2 @@
-["doly","ýeterlik"]
+doly
+ýeterlik

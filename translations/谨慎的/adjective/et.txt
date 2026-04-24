@@ -1,1 +1,2 @@
-["ettevaatlik","kaalutletud"]
+ettevaatlik
+kaalutletud

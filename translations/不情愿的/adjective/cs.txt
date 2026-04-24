@@ -1,1 +1,3 @@
-["neochotný","zdráhavý","nucený"]
+neochotný
+zdráhavý
+nucený

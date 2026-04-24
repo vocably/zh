@@ -1,1 +1,3 @@
-["anerkennen","zugeben","einräumen"]
+anerkennen
+zugeben
+einräumen

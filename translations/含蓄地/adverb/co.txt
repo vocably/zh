@@ -1,1 +1,2 @@
-["indirettamente","sottilmente"]
+indirettamente
+sottilmente

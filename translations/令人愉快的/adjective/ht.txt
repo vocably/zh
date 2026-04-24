@@ -1,1 +1,2 @@
-["agreab","bèl"]
+agreab
+bèl

@@ -1,1 +1,3 @@
-["tsy mazoto","tsy an-tsitrapo","an-tery"]
+tsy mazoto
+tsy an-tsitrapo
+an-tery

@@ -1,1 +1,2 @@
-["tsis nco qab","tsis saib xyuas"]
+tsis nco qab
+tsis saib xyuas

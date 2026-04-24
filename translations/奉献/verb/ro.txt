@@ -1,1 +1,2 @@
-["a oferi","a dedica"]
+a oferi
+a dedica

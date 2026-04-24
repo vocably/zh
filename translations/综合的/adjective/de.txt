@@ -1,1 +1,2 @@
-["umfassend","ganzheitlich"]
+umfassend
+ganzheitlich

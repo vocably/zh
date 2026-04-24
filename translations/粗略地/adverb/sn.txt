@@ -1,1 +1,2 @@
-["zvisina kunyatsojeka","zvisina kurongeka"]
+zvisina kunyatsojeka
+zvisina kurongeka

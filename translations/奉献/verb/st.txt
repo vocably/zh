@@ -1,1 +1,2 @@
-["fana","nehela"]
+fana
+nehela

@@ -1,1 +1,2 @@
-["mai juriya","mai dagewa"]
+mai juriya
+mai dagewa

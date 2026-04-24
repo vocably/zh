@@ -1,1 +1,2 @@
-["merkittävä","tärkeä"]
+merkittävä
+tärkeä

@@ -1,1 +1,2 @@
-["nepriamo","skryto"]
+nepriamo
+skryto

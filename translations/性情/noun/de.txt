@@ -1,1 +1,2 @@
-["Charakter","Temperament"]
+Charakter
+Temperament

@@ -1,1 +1,2 @@
-["kupa","bayira"]
+kupa
+bayira

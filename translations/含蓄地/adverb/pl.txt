@@ -1,1 +1,2 @@
-["pośrednio","nie wprost"]
+pośrednio
+nie wprost

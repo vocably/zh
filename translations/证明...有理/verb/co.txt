@@ -1,1 +1,2 @@
-["ghjustificà","validà"]
+ghjustificà
+validà

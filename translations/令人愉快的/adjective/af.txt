@@ -1,1 +1,2 @@
-["aangenaam","plesierig"]
+aangenaam
+plesierig

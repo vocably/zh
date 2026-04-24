@@ -1,1 +1,3 @@
-["vastumeelne","ebatahtlik","sunnitud"]
+vastumeelne
+ebatahtlik
+sunnitud

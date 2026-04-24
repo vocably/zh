@@ -1,1 +1,3 @@
-["chiwundo","mphinjiri","chinsinsi"]
+chiwundo
+mphinjiri
+chinsinsi

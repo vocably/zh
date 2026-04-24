@@ -1,1 +1,2 @@
-["haingana","faingana"]
+haingana
+faingana

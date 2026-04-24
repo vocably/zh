@@ -1,1 +1,2 @@
-["bermek","bagyşlamak"]
+bermek
+bagyşlamak

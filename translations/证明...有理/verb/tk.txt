@@ -1,1 +1,2 @@
-["aklamak","esaslandyrmak"]
+aklamak
+esaslandyrmak

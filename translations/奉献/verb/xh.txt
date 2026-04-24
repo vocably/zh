@@ -1,1 +1,2 @@
-["nikela","abela"]
+nikela
+abela

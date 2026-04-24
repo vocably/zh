@@ -1,1 +1,2 @@
-["kompleks","hərtərəfli"]
+kompleks
+hərtərəfli

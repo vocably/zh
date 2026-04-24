@@ -1,1 +1,3 @@
-["de mala gana","a desgusto","renuente"]
+de mala gana
+a desgusto
+renuente

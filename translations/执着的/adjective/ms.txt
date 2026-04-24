@@ -1,1 +1,2 @@
-["tabah","cekalkan"]
+tabah
+cekalkan

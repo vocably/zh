@@ -1,1 +1,2 @@
-["výrazně","značně"]
+výrazně
+značně

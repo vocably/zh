@@ -1,1 +1,3 @@
-["laipe","laimọ","laimọye"]
+laipe
+laimọ
+laimọye

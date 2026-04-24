@@ -1,1 +1,2 @@
-["rapidamente","depressa"]
+rapidamente
+depressa

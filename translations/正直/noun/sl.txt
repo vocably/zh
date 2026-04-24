@@ -1,1 +1,2 @@
-["nepristranskost","poštenost"]
+nepristranskost
+poštenost

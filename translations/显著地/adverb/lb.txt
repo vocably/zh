@@ -1,1 +1,2 @@
-["wesentlech","bemierkenswäert"]
+wesentlech
+bemierkenswäert

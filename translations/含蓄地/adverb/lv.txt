@@ -1,1 +1,2 @@
-["netieši","piesardzīgi"]
+netieši
+piesardzīgi

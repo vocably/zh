@@ -1,1 +1,2 @@
-["negligenciar","descurar"]
+negligenciar
+descurar

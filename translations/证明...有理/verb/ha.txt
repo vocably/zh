@@ -1,1 +1,2 @@
-["tabbatar","ba da hujja"]
+tabbatar
+ba da hujja

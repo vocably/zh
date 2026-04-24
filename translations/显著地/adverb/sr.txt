@@ -1,1 +1,2 @@
-["izrazito","primetno"]
+izrazito
+primetno

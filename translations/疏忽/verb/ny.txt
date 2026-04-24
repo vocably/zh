@@ -1,1 +1,2 @@
-["kunyalanyaza","kuiwala"]
+kunyalanyaza
+kuiwala

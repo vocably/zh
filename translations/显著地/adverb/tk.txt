@@ -1,1 +1,2 @@
-["aýratyn","belli-belli"]
+aýratyn
+belli-belli

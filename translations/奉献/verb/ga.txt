@@ -1,1 +1,2 @@
-["tiomáin","tairiscint"]
+tiomáin
+tairiscint

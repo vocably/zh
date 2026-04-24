@@ -1,1 +1,3 @@
-["ngaku","ngakuin","nampa"]
+ngaku
+ngakuin
+nampa

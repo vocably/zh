@@ -1,1 +1,2 @@
-["isimilo","ubuntu"]
+isimilo
+ubuntu

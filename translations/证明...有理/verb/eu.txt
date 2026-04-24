@@ -1,1 +1,2 @@
-["justifikatu","arrazoitu"]
+justifikatu
+arrazoitu

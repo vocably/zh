@@ -1,1 +1,2 @@
-["faautauta","faitalia"]
+faautauta
+faitalia

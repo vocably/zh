@@ -1,1 +1,2 @@
-["hitro","ekspresno"]
+hitro
+ekspresno

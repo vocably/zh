@@ -1,1 +1,2 @@
-["grovt","ungefär"]
+grovt
+ungefär

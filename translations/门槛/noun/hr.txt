@@ -1,1 +1,3 @@
-["prag","ulaz","caka"]
+prag
+ulaz
+caka

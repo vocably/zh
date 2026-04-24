@@ -1,1 +1,2 @@
-["gjithëpërfshirës","integral"]
+gjithëpërfshirës
+integral

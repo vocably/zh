@@ -1,1 +1,2 @@
-["n'ihi","mmezu"]
+n'ihi
+mmezu

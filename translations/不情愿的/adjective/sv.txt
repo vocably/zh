@@ -1,1 +1,3 @@
-["motvillig","ovillig","tvungen"]
+motvillig
+ovillig
+tvungen

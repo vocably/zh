@@ -1,1 +1,2 @@
-["elstare","rimarkinde"]
+elstare
+rimarkinde

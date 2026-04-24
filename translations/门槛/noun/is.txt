@@ -1,1 +1,3 @@
-["þröskuldur","dyraumbúnaður","kúnst"]
+þröskuldur
+dyraumbúnaður
+kúnst

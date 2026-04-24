@@ -1,1 +1,2 @@
-["kontuan hartu","aintzat hartu"]
+kontuan hartu
+aintzat hartu

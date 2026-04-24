@@ -1,1 +1,2 @@
-["feno","mitambatra"]
+feno
+mitambatra

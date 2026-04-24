@@ -1,1 +1,2 @@
-["godīgums","taisnums"]
+godīgums
+taisnums

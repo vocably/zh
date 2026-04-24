@@ -1,1 +1,2 @@
-["postepeno","lagano"]
+postepeno
+lagano

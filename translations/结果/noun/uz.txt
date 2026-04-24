@@ -1,1 +1,2 @@
-["natija","xulosa"]
+natija
+xulosa

@@ -1,1 +1,2 @@
-["ialay","ihandog"]
+ialay
+ihandog

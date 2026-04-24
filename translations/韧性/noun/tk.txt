@@ -1,1 +1,2 @@
-["çydamlylyk","berklik"]
+çydamlylyk
+berklik

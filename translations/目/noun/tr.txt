@@ -1,0 +1,5 @@
+göz
+madde
+başlık
+kategori
+nokta

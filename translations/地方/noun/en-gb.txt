@@ -1,0 +1,5 @@
+place
+area
+space
+spot
+locality

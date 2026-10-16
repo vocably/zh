@@ -1,0 +1,2 @@
+eşzamanlı
+senkronize

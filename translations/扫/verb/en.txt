@@ -1,0 +1,4 @@
+sweep
+scan
+clear
+glance over

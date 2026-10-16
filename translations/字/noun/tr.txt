@@ -1,0 +1,6 @@
+karakter
+kelime
+yazı
+harf
+sembol
+yazı sistemi

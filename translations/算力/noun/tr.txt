@@ -1,0 +1,2 @@
+hesaplama gücü
+hash gücü

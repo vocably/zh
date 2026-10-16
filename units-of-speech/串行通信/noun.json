@@ -1,0 +1,1 @@
+{"transcript":"chuàn xíng tōng xìn","exists":true,"definitions":["一种数据传输方式，数据位按顺序一位一位地在单条线路上进行传输。","指通过串行端口进行的数据交换和连接。"],"examples":["在工业控制系统中，串行通信常用于设备之间的数据交换。","USB接口是现代计算机中常见的串行通信方式之一。","工程师正在调试串行通信的参数以确保数据传输的稳定性。"],"lemma":"串行通信","lemmaPos":"noun","synonyms":["串口通信","串列通信"],"number":"singular","source":"串行通信"}

@@ -1,0 +1,1 @@
+{"transcript":"nèi cún huí shōu","exists":true,"definitions":["一种自动管理计算机内存的技术，用于识别和释放不再被程序使用的内存。","在编程中，指程序运行时自动清理不再需要的内存空间的过程。"],"examples":["Java虚拟机负责执行内存回收。","高效的内存回收机制对系统性能至关重要。","开发者通常不需要手动进行内存回收。"],"lemma":"内存回收","lemmaPos":"noun","synonyms":["垃圾回收","存储器回收"],"number":"singular","source":"内存回收"}

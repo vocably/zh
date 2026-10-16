@@ -1,0 +1,5 @@
+bölge
+ilçe
+semt
+alan
+yöre

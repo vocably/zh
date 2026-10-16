@@ -1,0 +1,3 @@
+posta
+postane
+posta idaresi

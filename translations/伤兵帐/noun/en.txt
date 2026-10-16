@@ -1,0 +1,2 @@
+field hospital
+casualty clearing station

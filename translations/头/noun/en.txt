@@ -1,0 +1,7 @@
+head
+hair
+end
+beginning
+leader
+side
+first

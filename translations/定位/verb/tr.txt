@@ -1,0 +1,3 @@
+konumlandırmak
+yerini belirlemek
+pozisyon almak

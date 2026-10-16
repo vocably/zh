@@ -1,0 +1,5 @@
+tane
+adet
+parça
+birim
+kalem

@@ -1,1 +1,1 @@
-{"transcript":"nèi cún fēn pèi","exists":true,"definitions":["指计算机程序或操作系统为应用程序在内存中预留空间的过程。","一种管理计算机内存资源的技术。"],"examples":["优化内存分配可以提高程序性能。","操作系统负责内存分配和回收。","不当的内存分配可能导致内存泄漏。"],"lemma":"内存分配","lemmaPos":"noun","synonyms":["存储器分配","记忆体分配"],"number":"singular","source":"内存分配"}
+{"transcript":"nèi cún fēn pèi","exists":true,"definitions":["指计算机程序或操作系统为应用程序在内存中预留空间的过程。","一种管理计算机内存资源的技术。"],"examples":["优化内存分配可以提高程序性能。","操作系统负责内存分配和回收。","不当的内存分配可能导致内存泄漏。"],"lemma":"内存分配","lemmaPos":"noun","synonyms":["存储器分配","记忆体分配"],"number":"singular","source":"内存分配","frequency":2}

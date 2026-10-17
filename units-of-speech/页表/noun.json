@@ -1,1 +1,1 @@
-{"transcript":"yè biǎo","exists":true,"definitions":["一种数据结构，用于存储虚拟地址到物理地址的映射关系。","在操作系统中，用于内存管理的数据结构，记录了虚拟内存页和物理内存帧之间的对应关系。"],"examples":["操作系统维护着每个进程的页表。","当程序访问内存时，CPU会查询页表。","页表项包含了页的物理地址和访问权限等信息。"],"lemma":"页表","lemmaPos":"noun","synonyms":[],"number":"singular","source":"页表"}
+{"transcript":"yè biǎo","exists":true,"definitions":["一种数据结构，用于存储虚拟地址到物理地址的映射关系。","在操作系统中，用于内存管理的数据结构，记录了虚拟内存页和物理内存帧之间的对应关系。"],"examples":["操作系统维护着每个进程的页表。","当程序访问内存时，CPU会查询页表。","页表项包含了页的物理地址和访问权限等信息。"],"lemma":"页表","lemmaPos":"noun","synonyms":[],"number":"singular","source":"页表","frequency":2}

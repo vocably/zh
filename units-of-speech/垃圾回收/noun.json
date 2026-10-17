@@ -1,1 +1,1 @@
-{"transcript":"lā jī huí shōu","exists":true,"definitions":["一种自动内存管理机制，用于识别和释放程序不再使用的内存。","将废弃物分类收集并循环利用的过程。"],"examples":["现代编程语言通常内置垃圾回收机制。","社区积极推广垃圾回收，以保护环境。","垃圾回收是提高系统性能的关键技术之一。"],"lemma":"垃圾回收","lemmaPos":"noun","synonyms":["内存回收","废物回收"],"number":"singular","source":"垃圾回收"}
+{"transcript":"lā jī huí shōu","exists":true,"definitions":["一种自动内存管理机制，用于识别和释放程序不再使用的内存。","将废弃物分类收集并循环利用的过程。"],"examples":["现代编程语言通常内置垃圾回收机制。","社区积极推广垃圾回收，以保护环境。","垃圾回收是提高系统性能的关键技术之一。"],"lemma":"垃圾回收","lemmaPos":"noun","synonyms":["内存回收","废物回收"],"number":"singular","source":"垃圾回收","frequency":4}
